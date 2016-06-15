@@ -1,0 +1,50 @@
+body{
+	width: 100%;
+	height: 100%;
+}
+.text-right{
+	text-align: right;
+}
+
+.vertical{
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#pageone{
+	background-color: red;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+#pagetwo{
+	background-color: blue;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+#pagethre{
+	background-color: orange;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+#nav{
+	background-color: blue;
+	color: white;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+}
+
+.ui-content{
+	display: table;
+	width: 97%;
+	height: 100%;
+}
+.a-nav{
+	left:95%;
+}
